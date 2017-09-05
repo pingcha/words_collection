@@ -1,0 +1,6 @@
+{
+	"name": "words_collection",
+	"dependencies": {
+		"jsonfile": "3.0.1"
+	}
+}
